@@ -7,7 +7,8 @@ Original distribution : https://github.com/pardeike/Harmony
 Licence : MIT
 
 ### KSP PLAYERS :
-This is a library used by other KSP mods. It doesn't provide any functionality in-game, but is required by other mods.
+This is a library used by other KSP mods. It doesn't provide any functionality in-game, but is required by some mods.
+
 To install it, download the zip from the [GitHub releases](https://github.com/KSPModdingLibs/HarmonyKSP/releases) and extract the `000_Harmony` folder into your `GameData` folder.
 
 ### KSP MODDERS :
