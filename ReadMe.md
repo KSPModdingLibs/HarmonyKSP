@@ -8,10 +8,10 @@ Licence : MIT
 
 ### KSP PLAYERS :
 This is a library used by other KSP mods. It doesn't provide any functionality in-game, but is required by other mods.
-To install it, copy the `000_Harmony` folder into your `GameData` folder.
+To install it, download the zip from the (GitHub releases)[https://github.com/KSPModdingLibs/HarmonyKSP/releases] and extract the `000_Harmony` folder into your `GameData` folder.
 
 ### KSP MODDERS :
-If you are using Harmony, or planning to use Harmony for your modding needs, please redirect your players to this community maintained version instead of bundling the orginal to avoid version conflicts.
+If you are using Harmony, or planning to use Harmony for your KSP modding needs, please redirect your players to this community maintained version instead of bundling the original to avoid version conflicts.
 
 Alternatively, you can also re-bundle the `GameData\000_Harmony` folder in your mod distribution, but be sure to always bundle the latest version.
 
